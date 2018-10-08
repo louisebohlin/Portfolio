@@ -1,5 +1,6 @@
 import React from "react"
 import "./app.css"
+import Workexample from "./workexample/workexample.js"
 
 class App extends React.Component {
 
@@ -8,7 +9,7 @@ class App extends React.Component {
       <div className="landingpage-container">
         <div className="presentation">
           <div className="image-div">
-            <img src="./src/images/snottys.jpg" alt="Louise" />
+            <img src="./images/snottys.jpg" alt="Louise" />
             <p>louisebp@gmail.com +46707425010</p>
           </div>
           <div className="presentationtext">
@@ -19,11 +20,10 @@ class App extends React.Component {
         </div>
         <div className="tech-div">
           <h1>Tech</h1>
-          <h3>480 coding hours 50+ individual tasks HTML5, CSS, SASS, Flexbox, Javascript, ES6, JSX, React, Node.js, API:s 6 sprints with demos together with companies like Volumental, Bonnier, Comprend @ Technigo
+          <h3>480 coding hours  ✨  50+ individual tasks ✨  HTML5, CSS, SASS, Flexbox, Javascript, ES6, JSX, React, Node.js, API:s ✨ 6 sprints with demos together with companies like Volumental, Bonnier, Comprend @ Technigo
           </h3>
         </div>
-        <div className="work-div">
-        </div>
+        <Workexample />
         <div className="skills-div">
         <h1>Skills</h1>
         </div>

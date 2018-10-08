@@ -1,0 +1,26 @@
+.workexample-container {
+  width: 750px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 0px 0px 60px 0px;
+  border-bottom: 2px solid black;
+}
+
+.workexample {
+  width: 280px;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  margin: 10px;
+  background-color: lightpink;
+}
+.workexample img {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
