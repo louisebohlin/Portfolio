@@ -3,6 +3,7 @@ import "./app.css"
 import Workexample from "./workexample/workexample.js"
 import Skills from "./skills/skills.js"
 import Studies from "./studies/studies.js"
+import Footer from "./footer/footer.js"
 
 class App extends React.Component {
 
@@ -28,6 +29,7 @@ class App extends React.Component {
         <Workexample />
         <Skills />
         <Studies />
+        <Footer />
       </div>
 
     )
