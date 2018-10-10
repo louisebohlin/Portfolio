@@ -10,17 +10,18 @@
 }
 
 .workexample {
-  width: 280px;
-  height: 280px;
+  width: 330px;
+  height: 330px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding: 30px;
+  justify-content: space-evenly;
+  padding: 10px;
   margin: 10px;
-  background-color: lightpink;
+  background-color: #DBDDD8;
 }
 .workexample img {
-  width: auto;
-  height: auto;
   object-fit: contain;
+  width: 330px;
+  height: 280px;
+  overflow: hidden;
 }

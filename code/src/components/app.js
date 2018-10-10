@@ -1,6 +1,8 @@
 import React from "react"
 import "./app.css"
 import Workexample from "./workexample/workexample.js"
+import Skills from "./skills/skills.js"
+import Studies from "./studies/studies.js"
 
 class App extends React.Component {
 
@@ -15,7 +17,7 @@ class App extends React.Component {
           <div className="presentationtext">
             <h3>Louise Böhlin Pihlsgård</h3>
             <h1>Frontend developer + Graphic Designer</h1>
-            <p>Hello world!</p>
+            <p>Hello!</p>
           </div>
         </div>
         <div className="tech-div">
@@ -24,12 +26,8 @@ class App extends React.Component {
           </h3>
         </div>
         <Workexample />
-        <div className="skills-div">
-        <h1>Skills</h1>
-        </div>
-        <div className="studies-div">
-        <h1>Studies</h1>
-        </div>
+        <Skills />
+        <Studies />
       </div>
 
     )

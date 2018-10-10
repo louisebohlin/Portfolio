@@ -1,0 +1,28 @@
+.studies-container {
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+  padding: 0px 0px 60px 0px;
+}
+
+.allstudies {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.study {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-right: 23px;
+  margin-bottom: 23px;
+}
+
+h4 {
+  margin-top: -3px;
+}
