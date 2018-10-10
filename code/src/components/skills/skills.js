@@ -29,6 +29,7 @@ class Skills extends React.Component {
               <li>Adobe Indesign</li>
               <li>Unity</li>
               <li>Slack</li>
+              <li>Unreal Engine (upcoming!)</li>
             </ul>
           </div>
           <div className="skill">
