@@ -2,11 +2,11 @@
 	"projects": [{
 			"id": 1,
 			"title": "Flight form with CSS written with SASS",
-			"image": "./images/flightform.png",
+			"image": "./images/flightform.jpg",
 			"description": "Filmdragerad tablett",
 			"codespecs": "500 mg",
 			"toolboxspecs": "20",
-			"morespecs": "Paracetamol",
+			"morespecs": "Paracetamol"
 		},
 		{
 			"id": 2,
@@ -15,7 +15,7 @@
       "description": "Filmdragerad tablett",
       "codespecs": "500 mg",
       "toolboxspecs": "20",
-      "morespecs": "Paracetamol",
+      "morespecs": "Paracetamol"
 		},
 		{
 			"id": 3,
@@ -24,7 +24,7 @@
 			"description": "Filmdragerad tablett",
 			"codespecs": "500 mg",
 			"toolboxspecs": "20",
-			"morespecs": "Paracetamol",
+			"morespecs": "Paracetamol"
 		},
 		{
 			"id": 4,
@@ -33,7 +33,7 @@
 			"description": "Filmdragerad tablett",
 			"codespecs": "500 mg",
 			"toolboxspecs": "20",
-			"morespecs": "Paracetamol",
+			"morespecs": "Paracetamol"
 		}
 
 	]
