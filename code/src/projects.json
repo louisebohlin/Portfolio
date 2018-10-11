@@ -1,0 +1,40 @@
+{
+	"projects": [{
+			"id": 1,
+			"title": "Flight form with CSS written with SASS",
+			"image": "./images/flightform.png",
+			"description": "Filmdragerad tablett",
+			"codespecs": "500 mg",
+			"toolboxspecs": "20",
+			"morespecs": "Paracetamol",
+		},
+		{
+			"id": 2,
+			"title": "Product listing page in React",
+      "image": "./images/productpage.png",
+      "description": "Filmdragerad tablett",
+      "codespecs": "500 mg",
+      "toolboxspecs": "20",
+      "morespecs": "Paracetamol",
+		},
+		{
+			"id": 3,
+			"title": "Signup form which posts the data into a HTTPbin",
+      "image": "./images/form.png",
+			"description": "Filmdragerad tablett",
+			"codespecs": "500 mg",
+			"toolboxspecs": "20",
+			"morespecs": "Paracetamol",
+		},
+		{
+			"id": 4,
+			"title": "Radio player built in React using Sveriges Radios API:s",
+      "image": "./images/radioplayer.png",
+			"description": "Filmdragerad tablett",
+			"codespecs": "500 mg",
+			"toolboxspecs": "20",
+			"morespecs": "Paracetamol",
+		}
+
+	]
+}
