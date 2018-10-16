@@ -23,6 +23,14 @@ class Workexample extends React.Component {
             <h4>Radio player built in React using Sveriges Radios API:s.</h4>
             <Link to="/projectpage/4"><img src="./images/radioplayer.png" /></Link>
           </div>
+          <div className="workexample">
+            <h4>Radio player built in React using Sveriges Radios API:s.</h4>
+            <Link to="/projectpage/5"><img src="./images/vat.png" /></Link>
+          </div>
+          <div className="workexample">
+            <h4>Radio player built in React using Sveriges Radios API:s.</h4>
+            <Link to="/projectpage/6"><img src="./images/snake.png" /></Link>
+          </div>
         </div>
     )
   }
