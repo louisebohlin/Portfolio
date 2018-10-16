@@ -57,8 +57,19 @@ p {
 }
 
 .presentationtext {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 60%;
-  padding: 20px;
+  padding-bottom: 10px;
+}
+
+.presentationtext button {
+  background-color: #DBDDD8;
+  width: 40%;
+  height: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
 }
 
 .tech-div {
@@ -67,7 +78,7 @@ p {
   flex-direction: column;
   justify-content: center;
   margin: 20px;
-  padding: 30px 0px 60px 0px;
+  padding: 20px 0px 20px 0px;
 }
 
 .tech-div h3 {
@@ -80,7 +91,7 @@ p {
   display: flex;
   justify-content: center;
   margin: 20px;
-  padding: 30px 0px 60px 0px;
+  padding: 10px 0px 60px 0px;
   border-bottom: 2px solid black;
 }
 
@@ -100,5 +111,12 @@ p {
   flex-direction: column;
   justify-content: center;
   margin: 20px;
-  padding: 30px 0px 60px 0px;
+  padding-top: 0px;
+}
+.linkedin button {
+  background-color: #DBDDD8;
+  width: 150px;
+  height: 30px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
 }
