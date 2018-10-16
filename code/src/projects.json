@@ -3,55 +3,55 @@
 			"id": 1,
 			"title": "Flight form",
 			"image": "./images/flightform.jpg",
-			"description": "Filmdragerad tablett",
-			"codespecs": "500 mg",
-			"toolboxspecs": "20",
-			"morespecs": "Paracetamol"
+			"description": "The task was to build a copy of the Norwegian flight booking form with the CSS done with SASS.",
+			"codespecs": ["HTML5"],
+			"toolboxspecs": "xxx",
+			"morespecs": "xxx"
 		},
 		{
 			"id": 2,
-			"title": "Product listing page in React",
+			"title": "Product page",
       "image": "./images/productpage.png",
-      "description": "Filmdragerad tablett",
-      "codespecs": "500 mg",
-      "toolboxspecs": "20",
-      "morespecs": "Paracetamol"
+      "description": "The task was to build a product listing page in React and using a JSON file for rendering the product information.",
+      "codespecs": "xxx",
+      "toolboxspecs": "xxx",
+      "morespecs": "xxx"
 		},
 		{
 			"id": 3,
-			"title": "Signup form which posts the data into a HTTPbin",
+			"title": "Signup form",
       "image": "./images/form.png",
-			"description": "Filmdragerad tablett",
-			"codespecs": "500 mg",
-			"toolboxspecs": "20",
-			"morespecs": "Paracetamol"
+			"description": "The task was to build a signup form for a web service and style it according to a web site of our choice. I chose the form that Acne Studios uses for the member registry. The data is posted in a HTTPbin.",
+			"codespecs": "xxx",
+			"toolboxspecs": "xxx",
+			"morespecs": "xxx"
 		},
 		{
 			"id": 4,
-			"title": "Radio player built in React using Sveriges Radios API:s",
+			"title": "Radio player",
       "image": "./images/radioplayer.png",
-			"description": "Filmdragerad tablett",
-			"codespecs": "500 mg",
-			"toolboxspecs": "20",
-			"morespecs": "Paracetamol"
+			"description": "The task was to build a working radio player that fetches information from the Sveriges Radio API.",
+			"codespecs": "xxx",
+			"toolboxspecs": "xxx",
+			"morespecs": "xxx"
 		},
 		{
 			"id": 5,
-			"title": "Radio player built in React using Sveriges Radios API:s",
-			"image": "./images/radioplayer.png",
-			"description": "Filmdragerad tablett",
-			"codespecs": "500 mg",
-			"toolboxspecs": "20",
-			"morespecs": "Paracetamol"
+			"title": "VAT calculator",
+			"image": "./images/vat.png",
+			"description": "The task was to build a VAT calculator and create controlled components that gives you control of form elements which would otherwise store their own state. The different fields will automatically change on input.",
+			"codespecs": "xxx",
+			"toolboxspecs": "xxx",
+			"morespecs": "xxx"
 		},
 		{
 			"id": 6,
-			"title": "Radio player built in React using Sveriges Radios API:s",
-			"image": "./images/radioplayer.png",
-			"description": "Filmdragerad tablett",
-			"codespecs": "500 mg",
-			"toolboxspecs": "20",
-			"morespecs": "Paracetamol"
+			"title": "Snake Game",
+			"image": "./images/snake.png",
+			"description": "The task was to get a feeling how the game engine Unity works and how to put together different elements in an environment and try different settings.",
+			"codespecs": "xxx",
+			"toolboxspecs": "xxx",
+			"morespecs": "xxx"
 		}
 
 	]

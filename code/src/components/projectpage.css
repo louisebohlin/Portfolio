@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 h1 {
+  padding-top: 10px;
   color: #3CA1E0;
   text-transform: uppercase;
   font-size: 30px;
