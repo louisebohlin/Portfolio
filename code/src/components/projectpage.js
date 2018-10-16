@@ -19,19 +19,19 @@ class Projectpage extends React.Component {
           <p>{project.description}</p>
         </div>
         <div className="specs-div">
-          <h1>Techs Specs</h1>
+          <h1>Tech Specs</h1>
             <div className="specs-lists">
               <h3>Code</h3>
                 <ul>
-                  <li>{this.props.codespecs}</li>
+                  <li>{project.codespecs}</li>
                 </ul>
               <h3>Toolbox</h3>
                 <ul>
-                  <li>{this.props.toolboxspecs}</li>
+                  <li>{project.toolboxspecs}</li>
                 </ul>
               <h3>More</h3>
                 <ul>
-                  <li>{this.props.morespecs}</li>
+                  <li>{project.morespecs}</li>
                 </ul>
             </div>
         </div>

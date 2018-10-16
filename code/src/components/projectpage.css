@@ -46,16 +46,14 @@ img {
 .specs-div {
   width: 750px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   margin: 20px;
   padding: 30px 0px 60px 0px;
 }
 
 .specs-lists {
-  width: 750px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  margin: 20px;
-  padding: 30px 0px 60px 0px;
+  justify-content: flex-start;
 }

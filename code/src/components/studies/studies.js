@@ -29,9 +29,9 @@ class Studies extends React.Component {
             <p>Law, economy, psychology, physics and everything else you need as a real estate broker. Malmö 2005-07</p>
           </div>
           <div className="study">
-            <h3>Kulturvetarprogrammet</h3>
-            <h4>Stockholm University</h4>
-            <p>Humanities studies preparing for further work in the cultural field. Stockholm 2009-12</p>
+            <h3>Mini introduction to Unity</h3>
+            <h4>Tjejer Kodar/MAG Interactive</h4>
+            <p>One evening to build a Snake game in Unity and get a feeling how the engine works. Stockholm september 2018</p>
           </div>
           <div className="study">
             <h3>Basic course in game development</h3>
