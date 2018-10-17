@@ -24,21 +24,21 @@ componentDidMount() {
         </div>
         <div className="specs-div">
           <h1>Tech Specs</h1>
-            <div className="specs-lists">
-              <div className="list">
-                <h3>Code</h3>
-                  <ul>
-                    <li>{project.codespecs}</li>
-                  </ul>
-              </div>
-              <div className="list">
-                <h3>Toolbox</h3>
-                  <ul>
-                    <li>{project.toolboxspecs}</li>
-                  </ul>
-              </div>
-              <div className="list">
-                <h3>More</h3>
+          <div className="specs-lists">
+            <div className="list">
+              <h3>Code</h3>
+              <ul>
+                <li>{project.codespecs}</li>
+              </ul>
+            </div>
+            <div className="list">
+              <h3>Toolbox</h3>
+              <ul>
+                <li>{project.toolboxspecs}</li>
+              </ul>
+            </div>
+            <div className="list">
+              <h3>More</h3>
                   <ul>
                     <li>{project.morespecs}</li>
                   </ul>

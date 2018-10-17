@@ -33,12 +33,12 @@ class Startpage extends React.Component {
           </div>
           <div className="presentationtext">
             <div>
-            <h3>Louise Böhlin Pihlsgård</h3>
-            <h1>Frontend developer + Graphic Designer</h1>
+              <h3>Louise Böhlin Pihlsgård</h3>
+              <h1>Frontend developer + Graphic Designer</h1>
             </div>
             <div>
-            <p>Hello! I&#39;m an outgoing introvert who loves clean code, nice design and mind blowing technology. I have a diverse background in tech, humanities and design and dream about working with passionate people in a stimulating environment.</p>
-            <a href="https://github.com/louisebohlin" target="_blank"><button>See my Github</button></a>
+              <p>Hello! I&#39;m an outgoing introvert who loves clean code, nice design and mind blowing technology. I have a diverse background in tech, humanities and design and dream about working with passionate people in a stimulating environment.</p>
+              <a href="https://github.com/louisebohlin" target="_blank"><button>See my Github</button></a>
             </div>
           </div>
         </div>
