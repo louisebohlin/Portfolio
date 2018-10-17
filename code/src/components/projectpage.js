@@ -6,9 +6,9 @@ import Footer from "./footer/footer.js"
 
 class Projectpage extends React.Component {
 
-componentDidMount() {
-  window.scrollTo(0,0)
-}
+  componentDidMount() {
+    window.scrollTo(0,0)
+  }
 
   render() {
 
@@ -39,11 +39,11 @@ componentDidMount() {
             </div>
             <div className="list">
               <h3>More</h3>
-                  <ul>
-                    <li>{project.morespecs}</li>
-                  </ul>
-              </div>
+              <ul>
+                <li>{project.morespecs}</li>
+              </ul>
             </div>
+          </div>
         </div>
         <Footer />
       </div>
